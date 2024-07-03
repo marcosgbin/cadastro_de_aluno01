@@ -115,7 +115,10 @@ Variáveis numéricas: telefone, CEP, RG, data de nascimento, grau de escolarida
 
 ## Colaboradores
 ### RESPONSAVEIS PELO README E O CONSULTAR ALUNO
-- Marcos David e Marcos Graziel![e6b4a85a-0360-4d70-a8cc-9b0c5fe581c0](https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/20ecaef5-e60c-4608-ac2e-4667fbc1acd9)
+- Marcos David e Marcos Graziel![be61fb2a-4314-45d3-b8f2-33b53661b317](https://github.com/marcosgbin/cadastro_de_aluno01/assets/168863262/1a4b66cc-5e49-401f-8612-e4df0bbc7ff0)
+
+
+
 
 
 ### RESPONSAVEIS POR CADASTRAR E EXCLUIR ALUNO E A CRIAÇÃO DOS DIAGRAMAS DE CASO DE USO E DESCREVENDO PROJETO
